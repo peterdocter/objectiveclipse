@@ -1,0 +1,2 @@
+  * [68083](https://bugs.eclipse.org/bugs/show_bug.cgi?id=68083) Help wanted in Objective-C editor for Eclipse
+  * [69529](https://bugs.eclipse.org/bugs/show_bug.cgi?id=69529) Preprocessor to recognise framework imports
